@@ -35,7 +35,7 @@ parsel==1.5.0
 parso==0.3.1
 pefile==2018.8.8
 pickleshare==0.7.4
-Pillow==5.2.0
+Pillow==6.2.0
 prompt-toolkit==1.0.15
 pyasn1==0.4.4
 pyasn1-modules==0.2.2
